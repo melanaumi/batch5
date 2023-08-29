@@ -1,0 +1,82 @@
+/* Kalau Class ( . ), Kalau ID ( # ), Kalau Properti ( p ) */
+
+
+.paragraph {
+    font-size: 20pt;
+    font-weight: bold;
+}
+
+.table>thead {
+    
+}
+
+#idnya {
+
+}
+
+p {
+    color : red;
+}
+
+h1 {
+
+}
+
+body {
+
+}
+
+.div1 .div1-1 p {
+    color: green;
+}
+
+.div1 .div1-1 {
+    display: relative;
+    background-color: bisque;
+    margin:40px !important;
+    padding: 40px;
+    border: 3px dotted red;
+}
+
+.div1 .div1-2 {
+    display: block;
+    background-color: bisque;
+    margin:40px;
+    padding: 40px;
+}
+
+p {
+   color: red; 
+}
+
+.biodata {
+
+}
+
+#biodata-utama {
+
+}
+
+@media(max-width:500px) and (min-height: 800px) {
+
+}
+
+@media(max-height:500px) {
+    
+}
+
+@media(min-width:500px) {
+    
+}
+
+@media(min-height:500px) {
+    
+}
+
+@media(orientation:potrait) {
+
+}
+
+@media(orientation:landscape) {
+    
+}
